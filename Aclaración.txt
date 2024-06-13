@@ -1,0 +1,4 @@
+13/6.
+Cometí un error al subir el TP2 del enunciado de Capacitate al querer subirlo utilizando Git Bash
+lo que provocó que los demás TPS me desaparecieran, por lo que volví a subirlos manualmente desde
+la página junto a esta aclaración. Mil disculpas.
